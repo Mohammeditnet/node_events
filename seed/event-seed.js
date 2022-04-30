@@ -1,5 +1,5 @@
 const db = require('../config/database')
-const Event = require('../models/Evnet')
+const Event = require('../models/Event')
 
 
 let newEvents = [
